@@ -1,0 +1,29 @@
+{
+    "common": {
+        "namaste": "Namaste",
+        "todayEarnings": "Today's Earnings",
+        "availableTasks": "Available Tasks",
+        "startTask": "Start Task",
+        "myProgress": "My Progress",
+        "youHaveNClips": "You have {{count}} clips pending review ⏳",
+        "myEarnings": "My Earnings",
+        "totalAvailableBalance": "Total Available Balance",
+        "withdrawToUpi": "Withdraw to UPI",
+        "pendingReview": "Pending Review",
+        "recentTransactions": "Recent Transactions",
+        "paid": "Paid",
+        "pending": "Pending",
+        "profileAndSettings": "Profile & Settings",
+        "verified": "Verified",
+        "personalInfo": "Personal Info",
+        "fullName": "Full Name",
+        "city": "City",
+        "paymentDetails": "Payment Details",
+        "upiId": "UPI ID",
+        "edit": "Edit",
+        "preferences": "Preferences",
+        "language": "Language",
+        "notifications": "Notifications",
+        "logOut": "Log Out"
+    }
+}

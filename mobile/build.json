@@ -1,0 +1,49 @@
+﻿{
+  "id": "d842aa7e-218a-4646-bd86-5dccccb2c084",
+  "status": "ERRORED",
+  "platform": "ANDROID",
+  "error": {
+    "errorCode": "EAS_BUILD_UNKNOWN_GRADLE_ERROR",
+    "message": "Gradle build failed with unknown error. See logs for the \"Run gradlew\" phase for more information."
+  },
+  "artifacts": {},
+  "fingerprint": {
+    "id": "019c86eb-3fb9-7e6b-aee7-1afbea9e4a3c",
+    "hash": "cad823824c3ce36a2c508809aa79a9b5fbe13991"
+  },
+  "initiatingActor": {
+    "id": "85793ef3-7bbe-4ada-9e00-00e34f9c844d",
+    "displayName": "uberfinalboss"
+  },
+  "logFiles": [
+    "https://job-logs.eascdn.net/production/d842aa7e-218a-4646-bd86-5dccccb2c084/1771790090402-c4c3530f-5a6a-4101-911c-f500b8bc3b6f.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260222%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260222T200241Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=2a907a05aca9732f610a2e990bea607bb4e7d50fd7ff1de67ec23864d7ceb7bda9aa050650ec020bbd60bc01dbec25cf9767ae8391ab25556f96a27afe739c1b76e144bf4db4a4623cea4f0e16087975d866196b9ff90507a96645f7311312895f053cc0a7cf31f4abb87a9bdd4ffdc4f7c9dd6d1540dfaf966f6e4709029c6ff08f4b0ea676cd9cfd6fbb55a38b88f3db8399a8fa33f161aefa0eb18339a6f87b1f3d07bf4a5b0046d018ff56dc9fa781a5bd723743cba48b234d65c9b3845435253473080e1fdcb68e90d402bd3a76a43da270908024d1bd5f0892b0ccda07b06061481f1398a38c6046a8f21d4d9bc9b1e5d2b25834f8b92e451531544647",
+    "https://job-logs.eascdn.net/production/d842aa7e-218a-4646-bd86-5dccccb2c084/1771790095668-116c6f64-9954-4ba7-b1f3-fcc723e6586c.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260222%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260222T200241Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=264dc3439bd9ac8ae5c93a1a410444a4fa7db178c970ce8270737ebfaf8685af866bb90414c107a3ab98d776fbca9ae7496ff72c61e94080b7d3dc9ad697aaec8ddc1f6656100008bda133147cd37449cc36682df9fc6fade9bec6a3b71eabde430e55b601c5e7a9121d4a1332cacd2fe5597134181be37a5c3b6a21ff8bd2dda8728898bf610878338b7fa0625c6cbae8f1af5d54b42330ed91f655ffcb7d0d89ee65b423fb4919dc203609674229db69022b3eee898d9b36c2d472d2b7de854bc27b89d07f0099921885556746781e9b230551435e49fce2c43323057a8ef39b64dbfb19f36bd745fead43af0e930a1f3e4cf96b9e35768f1bc565c650d67d",
+    "https://job-logs.eascdn.net/production/d842aa7e-218a-4646-bd86-5dccccb2c084/1771790095883-cf1caa6d-2bcd-4e03-88e2-adb264b42fe8.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260222%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260222T200241Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=b03770e713d31febe55570383f72baa4c0feaf612f97c66519da87db055bfa045b50885d367f22c8f2a58f729a8466ca2101432f42dbca386003acf966ae62dfd9f6f98750adfb7b1e759ab73f84fa826b9af837426d91666bc2d9fea675d740f41c5fb9eae547abead3fbbb37ccad9813cc7c64c368045969c6918dcea1df0803bd319626478669e09dd81f5c017dab1e9814856a9a4fe18587044c5dbce0f1b9c778405380bf5323be3846c891cc54fcb199c21eafeec9226883a15855daf09ee916465baf4e24fa971bbdfd1c64fcf7f6d79ca9deb697ee7549598728a2889f21b6abb68574eb5fdf7e0ddbe0011718f1b627d54bf9fa5561802012cf4224",
+    "https://job-logs.eascdn.net/production/d842aa7e-218a-4646-bd86-5dccccb2c084/1771790096055-acb8dfbb-606f-489f-bc08-f034e8b3fa4b.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=www-production%40exponentjs.iam.gserviceaccount.com%2F20260222%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260222T200241Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=1b0b090122ffb15558c4f416edafc44b859991a5ac18babc0d2453d1fb848325c4c6d1d45f48303ad8df04373122dbecbec72ff5e194dc99e6126c60f39d8635232a3789ca314ce95568b16c1313e0722978becc1b9afbedb807467926641cdb9d29f93c85c49753d4a5280ec8471f59fdb24f56f814ece9d638b4938b76256320b7b8de72dbe6ff5127c90a877490e6f8352ccb0b9158d77c42cdf4021cafb05e2c2c807604425e1fe73a0b442e9f8c5fed470e7a319027dcce17bf637da50e9a282fa1e1d2c79006f3c11f9c03aad91e3e84a2f56d3a313db6cdc7145a7c91b0a34727a0800da673d94a0b6df6e025835a1a72492a1cb8d1c8a422d9820a92"
+  ],
+  "project": {
+    "id": "8999ae54-7088-451d-b6e3-42f5fde53478",
+    "name": "mobile",
+    "slug": "mobile",
+    "ownerAccount": {
+      "id": "25365394-edbd-4014-87a3-64e9f64aac09",
+      "name": "uberfinalboss"
+    }
+  },
+  "distribution": "INTERNAL",
+  "buildProfile": "development",
+  "sdkVersion": "54.0.0",
+  "appVersion": "1.0.0",
+  "appBuildVersion": "1",
+  "priority": "NORMAL_PLUS",
+  "createdAt": "2026-02-22T19:54:50.056Z",
+  "updatedAt": "2026-02-22T19:57:49.417Z",
+  "completedAt": "2026-02-22T19:57:42.230Z",
+  "expirationDate": "2026-03-08T19:54:50.134Z",
+  "isForIosSimulator": false,
+  "metrics": {
+    "buildWaitTime": 207,
+    "buildQueueTime": 43122,
+    "buildDuration": 128578
+  }
+}

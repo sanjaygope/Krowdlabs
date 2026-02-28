@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364028789227",
+    "project_id": "rbt-mvp",
+    "storage_bucket": "rbt-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364028789227:android:a71b407e9cc26d621f59ae",
+        "android_client_info": {
+          "package_name": "com.anonymous.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL4BZybxA7u4PO8mh3ld26aY6Ez7mr__E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

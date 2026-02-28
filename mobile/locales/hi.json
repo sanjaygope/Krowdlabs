@@ -1,0 +1,29 @@
+{
+    "common": {
+        "namaste": "नमस्ते",
+        "todayEarnings": "आज की कमाई",
+        "availableTasks": "उपलब्ध कार्य",
+        "startTask": "कार्य शुरू करें",
+        "myProgress": "मेरी प्रगति",
+        "youHaveNClips": "आपके {{count}} वीडियो समीक्षा के लिए लंबित हैं ⏳",
+        "myEarnings": "मेरी कमाई",
+        "totalAvailableBalance": "कुल उपलब्ध राशि",
+        "withdrawToUpi": "UPI में निकालें",
+        "pendingReview": "समीक्षा लंबित",
+        "recentTransactions": "हाल के लेन-देन",
+        "paid": "भुगतान किया",
+        "pending": "लंबित",
+        "profileAndSettings": "प्रोफ़ाइल और सेटिंग्स",
+        "verified": "सत्यापित",
+        "personalInfo": "व्यक्तिगत जानकारी",
+        "fullName": "पूरा नाम",
+        "city": "शहर",
+        "paymentDetails": "भुगतान विवरण",
+        "upiId": "UPI आईडी",
+        "edit": "बदलें",
+        "preferences": "पसंद",
+        "language": "भाषा",
+        "notifications": "सूचनाएं",
+        "logOut": "लॉग आउट करें"
+    }
+}
