@@ -5,3 +5,7 @@ node_modules/
 dist/
 build/
 .DS_Store
+
+# Google Services
+google-services.json
+GoogleService-Info.plist
